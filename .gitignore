@@ -1,0 +1,4 @@
+.kivy/
+downloads/
+__pycache__/
+*.pyc
